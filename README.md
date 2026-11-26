@@ -8,10 +8,10 @@
 
 Apps, services and experiments. Open source, no trackers.
 
-[![Website](badges/website.svg)](https://doepic.ai)
-[![Instagram](badges/instagram.svg)](https://www.instagram.com/doepic.ai)
-[![GitHub](badges/github.svg)](https://github.com/arsenikt)
-[![LinkedIn](badges/linkedin.svg)](https://www.linkedin.com/in/arsenik/)
+[![Website](badges/website-flat.svg)](https://doepic.ai)
+[![Instagram](badges/instagram-flat.svg)](https://www.instagram.com/doepic.ai)
+[![GitHub](badges/github-flat.svg)](https://github.com/arsenikt)
+[![LinkedIn](badges/linkedin-flat.svg)](https://www.linkedin.com/in/arsenik/)
 
 </div>
 
