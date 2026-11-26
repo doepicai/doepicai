@@ -22,7 +22,7 @@ Modern Armenian in short mini-games: Mashtots' alphabet, everyday words and phra
 | | |
 |---|---|
 | Website | [aybben.doepic.ai](https://aybben.doepic.ai) |
-| Android, Windows | [latest release](https://github.com/doepicai/aybben-site/releases/latest) |
+| Android, Windows, iOS | [latest release](https://github.com/doepicai/aybben-site/releases/latest) (the iOS IPA is unsigned: install it with AltStore or Sideloadly) |
 
 ## Wokok Box
 
