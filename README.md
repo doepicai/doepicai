@@ -8,10 +8,10 @@
 
 Apps, services and experiments. Open source, no trackers.
 
-[![Website](https://img.shields.io/badge/Website-doepic.ai-ff8e80?style=for-the-badge)](https://doepic.ai)
-[![Instagram](https://img.shields.io/badge/Instagram-doepic.ai-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doepic.ai)
-[![GitHub](https://img.shields.io/badge/GitHub-arsenikt-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsenikt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Farsenik-4a2480?style=for-the-badge)](https://www.linkedin.com/in/arsenik/)
+[![Website](badges/website.svg)](https://doepic.ai)
+[![Instagram](badges/instagram.svg)](https://www.instagram.com/doepic.ai)
+[![GitHub](badges/github.svg)](https://github.com/arsenikt)
+[![LinkedIn](badges/linkedin.svg)](https://www.linkedin.com/in/arsenik/)
 
 </div>
 
